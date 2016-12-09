@@ -1,6 +1,6 @@
 {
     "appSecret": "10a7f28215f5f99c19fe63f2bf24a238",
-    "pageAccessToken": "",
+    "pageAccessToken": "123467",
     "validationToken": "verify_that_I_am_a_bot",
     "serverURL": "https://hive-bot-test.herokuapp.com"
 }
